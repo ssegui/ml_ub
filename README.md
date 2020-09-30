@@ -27,3 +27,7 @@
 |Week 11        | Neural Networks                       | Unsupervised Learning               | Neural Networks       | 
 |Week 12        | Neural Networks                       | Neural Networks                     | Neural Networks       | 
  
+
+Recommended Books 
++ **Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems.** Aurelien Geron
++ **An Introduction to Statistical Learning: with Applications in R**  http://faculty.marshall.usc.edu/gareth-james/
