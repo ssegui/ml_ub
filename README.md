@@ -3,6 +3,7 @@
 
 
 ### CALENDAR
+
 |               | Theory                                | Python Sesion                       | R Session             |
 | ------------- |:-------------:                        | -----:                              | -----:                |
 |Week 1         | [Introduction](slides/ML1.pdf)        |                                     | Introduction to R     | 
