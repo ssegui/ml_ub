@@ -1,7 +1,7 @@
 title: Machine Learning Course
 description: Computer Science - University of Barcelona
-logo: /imgages/logo.png
-show_downloads: true
+logo: /images/logo.png
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 
