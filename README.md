@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Machine Learning Course. Computer Science Undergraduate Course at University of Barcelona
 
-You can use the [editor on GitHub](https://github.com/ssegui/ml_ub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ssegui/ml_ub/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### CALENDAR
+|               | Theory           | Python Sesion  | R Session |
+| ------------- |:-------------:   | -----:| -----:|
+|Week 1         | Introduction                          |  | Introduction to R | 
+|Week 2         | A typical Machine Learning project      |   Your first DS problem|Regression| 
+|Week 3           | Regression                             |    A typical Machine Learning project  |Regression| 
+|Week 4         |  Classification                            |    Regression |Regression| 
+|Week 5         |   Trainining Models                           |    Classification |Classification| 
+|Week 6         |   Support Vector Machines                           |  Trainining Models |Classification| 
+|Week 7          |   Tree Based Methods                           |    Support Vector Machines  |Classification| 
+|Week 8          |  Boosting & Bagging - Ensembles                            |    Tree Based Methods |Unsupervised Learning| 
+|Week 9         |  Dimensionality Reduction                            |    Boosting & Bagging - Ensembles  |Unsupervised Learning| 
+|Week 10         |  Unsupervised Learning                            |    Dimensionality Reduction |Unsupervised Learning| 
+|Week 11         |  Neural Networks                          |    Unsupervised Learning |Neural Networks| 
+|Week 12          |  Neural Networks                            |    Neural Networks |Neural Networks| 
