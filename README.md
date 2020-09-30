@@ -5,7 +5,7 @@
 ### CALENDAR
 |               | Theory                                | Python Sesion                       | R Session             |
 | ------------- |:-------------:                        | -----:                              | -----:                |
-|Week 1         | Introduction                          |                                     | Introduction to R     | 
+|Week 1         | [Introduction](slides/ML1.pdf)        |                                     | Introduction to R     | 
 |Week 2         | A typical Machine Learning project    | Your first DS problem               | Regression            | 
 |Week 3         | Regression                            | A typical Machine Learning project  | Regression            | 
 |Week 4         | Classification                        | Regression                          | Regression            | 
