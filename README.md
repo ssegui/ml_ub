@@ -1,5 +1,5 @@
 ## Machine Learning Course
-### Computer Science Undergraduate Course at University of Barcelona
+### Computer Science / University of Barcelona
 
 
 
