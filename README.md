@@ -1,4 +1,5 @@
-## Welcome to Machine Learning Course. Computer Science Undergraduate Course at University of Barcelona
+## Machine Learning Course
+### Computer Science Undergraduate Course at University of Barcelona
 
 
 
