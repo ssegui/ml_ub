@@ -2,6 +2,6 @@
 
 
 
-Notebook: [notebooks/session1.ipynb](session1.ipynb)
+Notebook: [session1.ipynb](notebooks/session1.ipynb)
 
-kaggle link: [https://www.kaggle.com/t/afe495cd9e90462baa84b5ce320791dd](Kaggle)
+kaggle link: [Kaggle](https://www.kaggle.com/t/afe495cd9e90462baa84b5ce320791dd)
