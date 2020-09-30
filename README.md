@@ -1,4 +1,3 @@
-## Machine Learning Course
 **Computer Science** (Fall 2020)
 
 **Professor:** Santi Seguí & Josep Fortiana
