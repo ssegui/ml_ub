@@ -3,6 +3,7 @@
 **Computer Science** (Fall 2020)
 
 **Professor:** Santi Seguí & Josep Fortiana
+
 **Email:** santi.segui@ub.edu
 
 **Tutorial times:** On demand.
