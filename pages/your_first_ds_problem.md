@@ -4,7 +4,7 @@ The main goals of this session are:
 * Get familiarized with python enviroment
 * Create basic plots to understand continuous and categorical data
 * Create a black-box Regression Model 
-* "Undertand" the concept of overfitting
+* "Understand" the concept of overfitting
 
 
 
