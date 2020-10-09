@@ -13,7 +13,7 @@
 |               | Theory                                | Python Session                       | R Session             |
 | ------------- |:-------------:                        | -----:                              | -----:                |
 |Week 1         | [Introduction](slides/ML1.pdf)        |                                     | Introduction to R     | 
-|Week 2         | A typical Machine Learning project    |[Your "first" DS problem](pages/your_first_ds_problem.md)             | Regression            | 
+|Week 2         | [A typical Machine Learning project](slides/ML2.pdf)     |[Your "first" DS problem](pages/your_first_ds_problem.md)             | Regression            | 
 |Week 3         | Regression                            | A typical Machine Learning project  | Regression            | 
 |Week 4         | Classification                        | Regression                          | Regression            | 
 |Week 5         | Trainining Models                     | Classification                      | Classification        | 
