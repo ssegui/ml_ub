@@ -6,3 +6,5 @@ The main goals of this session are:
 * Understand the different steps 
 * Learn how to train, evaluate, and fine-tune your model
 * Present your model
+
+Notebook: [Session 2](../notebooks/Session2.ipynb)
