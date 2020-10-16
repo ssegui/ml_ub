@@ -14,7 +14,7 @@
 | ------------- |:-------------:                        | -----:                              | -----:                |
 |Week 1         | [Introduction](slides/ML1.pdf)        |                                     | Introduction to R     | 
 |Week 2         | [A typical Machine Learning project](slides/ML2.pdf)     |[Your "first" DS problem](pages/01_your_first_ds_problem.md)             | Regression            | 
-|Week 3         | Regression                            | [A typical Machine Learning project](pages/02_typicalMachineLearningProject.md)  | Regression            | 
+|Week 3         | [Regression](slides/ML3.pdf)         | [A typical Machine Learning project](pages/02_typicalMachineLearningProject.md)  | Regression            | 
 |Week 4         | Classification                        | Regression                          | Regression            | 
 |Week 5         | Trainining Models                     | Classification                      | Classification        | 
 |Week 6         | Support Vector Machines               | Trainining Models                   | Classification        | 
@@ -25,6 +25,11 @@
 |Week 11        | Neural Networks                       | Unsupervised Learning               | Neural Networks       | 
 |Week 12        | Neural Networks                       | Neural Networks                     | Neural Networks       | 
  
+
+### Projects
++ Project 1: https://www.kaggle.com/c/mlub-housing-house-prediction/
++ Project 2: https://www.kaggle.com/c/mlub-housing-house-prediction-v2/
++ Project 3: https://www.kaggle.com/c/mlub-housing-house-prediction-LinearRegression/
 
 ### Recommended Books 
 + **Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems.** Aurelien Geron
