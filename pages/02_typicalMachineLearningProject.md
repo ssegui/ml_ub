@@ -8,3 +8,6 @@ The main goals of this session are:
 * Present your model
 
 Notebook: [Session 2](../notebooks/Session2.ipynb)
+
+
+kaggle link: [Kaggle](https://www.kaggle.com/c/mlub-housing-house-prediction-v2)
