@@ -16,8 +16,8 @@
 |Week 2         | [A typical Machine Learning project](slides/ML2.pdf)     |[Your "first" DS problem](pages/01_your_first_ds_problem.md)             | Regression            | 
 |Week 3         | [Regression](slides/ML3.pdf)         | [A typical Machine Learning project](pages/02_typicalMachineLearningProject.md)  | Regression            | 
 |Week 4         | [Classification](slides/ML4.pdf)                        | [Regression](pages/03_regression.md)                          | Regression            | 
-|Week 5         | Trainining Models                     | Classification                      | Classification        | 
-|Week 6         | Support Vector Machines               | Trainining Models                   | Classification        | 
+|Week 5         | [Trainining Models](slides/ML5.pdf)                      | Classification                      | Classification        | 
+|Week 6         | [Support Vector Machines](slides/ML6.pdf)                | Trainining Models                   | Classification        | 
 |Week 7         | Tree Based Methods                    | Support Vector Machines             | Classification        | 
 |Week 8         | Boosting & Bagging - Ensembles        | Tree Based Methods                  | Unsupervised Learning | 
 |Week 9         | Dimensionality Reduction              | Boosting & Bagging - Ensembles      | Unsupervised Learning | 
