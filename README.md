@@ -19,10 +19,10 @@
 |Week 5         | [Trainining Models](slides/ML5.pdf)                      | Classification                      | Classification        | 
 |Week 6         | [Support Vector Machines](slides/ML6.pdf)                | Trainining Models                   | Classification        | 
 |Week 7         | [Tree Based Methods](slides/ML7.pdf)                    | Support Vector Machines             | Classification        | 
-|Week 8         | Boosting & Bagging - Ensembles        | Tree Based Methods                  | Unsupervised Learning | 
+|Week 8         | [Boosting & Bagging - Ensembles](slides/ML7.pdf)        | Tree Based Methods                  | Unsupervised Learning | 
 |Week 9         | Dimensionality Reduction              | Boosting & Bagging - Ensembles      | Unsupervised Learning | 
 |Week 10        | Unsupervised Learning                 | Dimensionality Reduction            | Unsupervised Learning | 
-|Week 11        | Neural Networks                       | Unsupervised Learning               | Neural Networks       | 
+|Week 11        | (Neural Networks)(slides/ML8.pdf)                       | Unsupervised Learning               | Neural Networks       | 
 |Week 12        | Neural Networks                       | Neural Networks                     | Neural Networks       | 
  
 
