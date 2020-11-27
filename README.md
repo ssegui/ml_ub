@@ -22,7 +22,7 @@
 |Week 8         | [Boosting & Bagging - Ensembles](slides/ML7.pdf)        | Tree Based Methods                  | Unsupervised Learning | 
 |Week 9         | Dimensionality Reduction              | Boosting & Bagging - Ensembles      | Unsupervised Learning | 
 |Week 10        | Unsupervised Learning                 | Dimensionality Reduction            | Unsupervised Learning | 
-|Week 11        | (Neural Networks)(slides/ML8.pdf)                       | Unsupervised Learning               | Neural Networks       | 
+|Week 11        | [Neural Networks](slides/ML8.pdf)                       | Unsupervised Learning               | Neural Networks       | 
 |Week 12        | Neural Networks                       | Neural Networks                     | Neural Networks       | 
  
 
