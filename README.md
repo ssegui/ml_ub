@@ -30,7 +30,7 @@
 + Project 1: https://www.kaggle.com/c/mlub-housing-house-prediction/
 + Project 2: https://www.kaggle.com/c/mlub-housing-house-prediction-v2/
 + Project 3: https://www.kaggle.com/c/mlub-housing-house-prediction-LinearRegression/
-+ [Project 4](pages/proj4.md)  
++ [Project 4](pages/project_04.md)  
 + [Project 5](pages/proj5.md)  
 + [Project 6](pages/proj6.md)  
 
