@@ -11,5 +11,3 @@ Requirements:
 
 Score: 4 points
 
-
-Kaggke: https://www.kaggle.com/c/mlub-learning-to-count/
