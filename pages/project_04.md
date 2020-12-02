@@ -10,3 +10,6 @@ Requirements:
 + Compare the results with Bagging; Random Forest; AdaBoost (you can use sklearn models)
 
 Score: 4 points
+
+
+Kaggke: https://www.kaggle.com/c/mlub-learning-to-count/
