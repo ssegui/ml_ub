@@ -23,13 +23,16 @@
 |Week 9         | [Neural Networks](slides/ML8.pdf)                       | Tree Based Methods                | Neural Networks       |
 |Week 10        | Neural Networks                       | Neural Networks                     | Neural Networks       | 
 |Week 11        | Unsupervised Learning                 | Dimensionality Reduction            | Unsupervised Learning | 
-|W1eek 112       | Dimensionality Reduction              | Boosting & Bagging - Ensembles      | Unsupervised Learning | 
+|W1eek 12       | Dimensionality Reduction              | Boosting & Bagging - Ensembles      | Unsupervised Learning | 
  
 
 ### Projects
 + Project 1: https://www.kaggle.com/c/mlub-housing-house-prediction/
 + Project 2: https://www.kaggle.com/c/mlub-housing-house-prediction-v2/
 + Project 3: https://www.kaggle.com/c/mlub-housing-house-prediction-LinearRegression/
++ [Project 4](pages/proj4.md)  
++ [Project 5](pages/proj5.md)  
++ [Project 6](pages/proj6.md)  
 
 ### Recommended Books 
 + **Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems.** Aurelien Geron
