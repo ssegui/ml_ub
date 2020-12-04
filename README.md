@@ -21,7 +21,7 @@
 |Week 7         | [Tree Based Methods](slides/ML7.pdf)                    | Support Vector Machines             | Classification        | 
 |Week 8         | [Boosting & Bagging - Ensembles](slides/ML7.pdf)        | Tree Based Methods                  | Unsupervised Learning | 
 |Week 9         | [Neural Networks](slides/ML8.pdf)                       | Tree Based Methods                | Neural Networks       |
-|Week 10        | Neural Networks                       |[Neural Networks](https://github.com/ssegui/ml_ub/blob/master/notebooks/Session7.ipynb)                     | Neural Networks       | 
+|Week 10        | [Convolutional Neural Networks](slides/ML9.pdf)                      |[Neural Networks](https://github.com/ssegui/ml_ub/blob/master/notebooks/Session7.ipynb)                     | Neural Networks       | 
 |Week 11        | Unsupervised Learning                 | Dimensionality Reduction            | Unsupervised Learning | 
 |W1eek 12       | Dimensionality Reduction              | Boosting & Bagging - Ensembles      | Unsupervised Learning | 
  
