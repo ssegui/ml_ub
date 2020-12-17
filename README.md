@@ -20,10 +20,10 @@
 |Week 6         | [Support Vector Machines](slides/ML6.pdf)                | Trainining Models                   | Classification        | 
 |Week 7         | [Tree Based Methods](slides/ML7.pdf)                    | Support Vector Machines             | Classification        | 
 |Week 8         | [Boosting & Bagging - Ensembles](slides/ML7.pdf)        | Tree Based Methods                  | Unsupervised Learning | 
-|Week 9         | [Neural Networks](slides/ML8.pdf)                       | Tree Based Methods                | Neural Networks       |
+|Week 9         | [Neural Networks](slides/ML8.pdf)                       | Boosting & Bagging - Ensembles                 | Neural Networks       |
 |Week 10        | [Convolutional Neural Networks](slides/ML9.pdf)                      |[Neural Networks](https://github.com/ssegui/ml_ub/blob/master/notebooks/Session7.ipynb)                     | Neural Networks       | 
-|Week 11        | Unsupervised Learning                 | Dimensionality Reduction            | Unsupervised Learning | 
-|W1eek 12       | Dimensionality Reduction              | Boosting & Bagging - Ensembles      | Unsupervised Learning | 
+|Week 11        | [Unsupervised Learning](slides/ML10.pdf)                 | Dimensionality Reduction            | Unsupervised Learning | 
+|W1eek 12       | Dimensionality Reduction              |      | Unsupervised Learning | 
  
 
 ### Projects
@@ -32,7 +32,7 @@
 + Project 3: https://www.kaggle.com/c/mlub-housing-house-prediction-LinearRegression/
 + [Project 4](pages/project_04.md)
 + [Project 5](pages/proj5.md): https://www.kaggle.com/c/mlub-learning-to-count/  
-+ [Project 6](pages/proj6.md)  
++ [Project 6](pages/proj6.md): https://www.kaggle.com/c/mlub-unsupervised-learning  
 
 ### Recommended Books 
 + **Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems.** Aurelien Geron
