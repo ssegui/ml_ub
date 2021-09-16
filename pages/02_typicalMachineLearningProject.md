@@ -7,7 +7,7 @@ The main goals of this session are:
 * Learn how to train, evaluate, and fine-tune your model
 * Present your model
 
-Notebook: [Session 2](../notebooks/Session2.ipynb)
+Notebook: [Session 2]
 
 
-kaggle link: [Kaggle](https://www.kaggle.com/c/mlub-housing-house-prediction-v2)
+kaggle link: [Kaggle]
