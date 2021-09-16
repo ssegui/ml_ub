@@ -1,4 +1,4 @@
-**Computer Science** (Fall 2020)
+**Computer Science** (Fall 2021)
 
 **Professor:** Santi Seguí & Josep Fortiana
 
