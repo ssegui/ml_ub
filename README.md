@@ -27,7 +27,7 @@
  
 
 ### Projects
-+ Project 1: https://www.kaggle.com/c/mlub-housing-house-prediction/
++ Project 1: https://www.kaggle.com/c/mlub2021-session1/
 
 
 ### Recommended Books 
