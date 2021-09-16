@@ -23,7 +23,7 @@
 |Week 9         | [Neural Networks](slides/ML8.pdf)                       | Boosting & Bagging - Ensembles                 | Neural Networks       |
 |Week 10        | [Convolutional Neural Networks](slides/ML9.pdf)                      |[Neural Networks](https://github.com/ssegui/ml_ub/blob/master/notebooks/Session7.ipynb)                     | Neural Networks       | 
 |Week 11        | [Unsupervised Learning](slides/ML10.pdf)                 | Dimensionality Reduction            | Unsupervised Learning | 
-|W1eek 12       | Dimensionality Reduction              |      | Unsupervised Learning | 
+|Week 12       | Dimensionality Reduction              |      | Unsupervised Learning | 
  
 
 ### Projects
