@@ -10,7 +10,7 @@
 
 ### CALENDAR
 
-|               | Theory                                | Python Session                       | R Session             |
+|               | Theory                                | Python Session                       | Lab Session             |
 | ------------- |:-------------:                        | -----:                              | -----:                |
 |Week 1         | [Introduction](slides/ML1.pdf)        |                                     | Introduction to R     | 
 |Week 2         | [A typical Machine Learning project](slides/ML2.pdf)     |[Your "first" DS problem](pages/01_your_first_ds_problem.md)             | Regression            | 
