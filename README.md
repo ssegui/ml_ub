@@ -27,7 +27,7 @@
  
 
 ### Projects
-+ Project 1: https://www.kaggle.com/c/mlub2021-session1/
++ Project 1: https://www.kaggle.com/c/mlub2021-session1/ (https://www.kaggle.com/t/1fbd7a89286b4c78bbd027d6ea0b1263)
 
 
 ### Recommended Books 
