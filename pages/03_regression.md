@@ -7,7 +7,6 @@ The main goals of this session are:
 
 
 
-Notebook: [Session 3](../notebooks/Session3.ipynb)
+Notebook: [Session 3]
 
-kaggle link: [Kaggle](https://www.kaggle.com/c/mlub-housing-house-prediction-linearregression)
-
+kaggle link: [Kaggle]
