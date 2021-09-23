@@ -7,7 +7,7 @@ The main goals of this session are:
 * Learn how to train, evaluate, and fine-tune your model
 * Present your model
 
-Notebook: [Session 2]
+Notebook: [Session 2](https://github.com/ssegui/ml_ub/blob/master/notebooks/Session2.ipynb)
 
 
 kaggle link: [Kaggle]
