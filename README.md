@@ -28,7 +28,7 @@
 
 ### Projects
 + Project 1: [https://www.kaggle.com/c/mlub2021-session1/](https://www.kaggle.com/t/1fbd7a89286b4c78bbd027d6ea0b1263)
-
++ Project 4: []
 
 ### Recommended Books 
 + **Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems.** Aurelien Geron
