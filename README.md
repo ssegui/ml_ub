@@ -20,7 +20,7 @@
 |Week 6         | [Support Vector Machines](slides/ML6.pdf)               | Support Vector Machines    | Classification        | 
 |Week 7         | [Tree Based Methods](slides/ML7.pdf)                    | [Tree Based Methods](pages/07_trees.md)         | Classification        | 
 |Week 8         | [Boosting & Bagging - Ensembles](slides/ML7.pdf)        | Boosting & Bagging - Ensembles | Unsupervised Learning | 
-|Week 9         | [Neural Networks](slides/ML8.pdf)                       | Neural Networks                | Neural Networks       |
+|Week 9         | [Neural Networks](slides/ML8.pdf)                       | [Neural Networks](pages/09_nn.md)                | Neural Networks       |
 |Week 10        | [Convolutional Neural Networks](slides/ML9.pdf)         |Neural Networks                 | Neural Networks       | 
 |Week 11        | [Unsupervised Learning](slides/ML10.pdf)                | Dimensionality Reduction       | Unsupervised Learning | 
 |Week 12        | Dimensionality Reduction              |      | Unsupervised Learning | 
