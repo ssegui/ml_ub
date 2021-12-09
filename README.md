@@ -22,7 +22,7 @@
 |Week 8         | [Boosting & Bagging - Ensembles](slides/ML7.pdf)        | Boosting & Bagging - Ensembles | Unsupervised Learning | 
 |Week 9         | [Neural Networks](slides/ML8.pdf)                       | [Neural Networks](pages/09_nn.md)                | Neural Networks       |
 |Week 10        | [Convolutional Neural Networks](slides/ML9.pdf)         |Neural Networks                 | Neural Networks       | 
-|Week 11        | [Unsupervised Learning](slides/ML10.pdf)                |   [Unsupervised Learning] (pages/11_nn.md)      | Unsupervised Learning | 
+|Week 11        | [Unsupervised Learning](slides/ML10.pdf)                |   [Unsupervised Learning](pages/11_nn.md)      | Unsupervised Learning | 
 |Week 12        | Dimensionality Reduction              |      | Dimensionality Reduction | 
  
 
