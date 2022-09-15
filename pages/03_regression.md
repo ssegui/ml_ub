@@ -9,4 +9,4 @@ The main goals of this session are:
 
 Notebook: [Session 3](https://github.com/ssegui/ml_ub/blob/master/notebooks/Session3.ipynb)
 
-kaggle link: [Kaggle](https://www.kaggle.com/t/31d6e3ae11084b499b14edbc41deb169)
+kaggle link: [Kaggle]
