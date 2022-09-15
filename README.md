@@ -10,10 +10,10 @@
 
 ### CALENDAR
 
-|               | Theory                                | Python Session                       | Lab Session             |
-| ------------- |:-------------:                        | -----:                              | -----:                |
-|Week 1         | [Introduction](slides/ML1.pdf)        | [Your "first" DS problem](pages/01_your_first_ds_problem.md)                                     | Introduction to R     | 
-|Week 2         | [A typical Machine Learning project](slides/ML2.pdf)     |  [A typical Machine Learning project](pages/02_typicalMachineLearningProject.md)          | Regression            | 
+|               | Theory                          | Python Session                  | Lab Session             |
+| ------------- |:-------------:                  | -----:                          | -----:                |
+|Week 1         | [Introduction](slides/ML1.pdf)  | [Your "first" DS problem](pages/01_your_first_ds_problem.md)      | Introduction to R     | 
+|Week 2         | [A typical Machine Learning project](slides/ML2.pdf)     |  [A typical Machine Learning project](pages/02_typicalMachineLearningProject.md)          | Introduction to R             | 
 |Week 3         | [Regression](slides/ML3.pdf)         | [Regression](pages/03_regression.md)          | Regression            | 
 |Week 4         | [Classification](slides/ML4.pdf)                        | [Classification](pages/04_classification.md)            | Regression            | 
 |Week 5         | [Trainining Models](slides/ML5.pdf)                     | Trainining Models          | Classification        | 
