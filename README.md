@@ -12,17 +12,17 @@
 
 |               | Theory                          | Python Session                  | Lab Session             |
 | ------------- |:-------------:                  | -----:                          | -----:                |
-|Week 1         | [Introduction](slides/ML1.pdf)  | [Your "first" DS problem]     |      | 
-|Week 2         | [A typical Machine Learning project](slides/ML2.pdf)     |  [A typical Machine Learning project]          | Introduction to R             | 
-|Week 3         | [Regression](slides/ML3.pdf)         | [Regression](pages/03_regression.md)          | Regression            | 
-|Week 4         | [Classification](slides/ML4.pdf)                        | [Classification]          | Regression            | 
+|Week 1         | [Introduction](slides/ML1.pdf)  | Your "first" DS problem     |      | 
+|Week 2         | [A typical Machine Learning project](slides/ML2.pdf)     |  A typical Machine Learning project          | Introduction to R             | 
+|Week 3         | [Regression](slides/ML3.pdf)         | Regression         | Regression            | 
+|Week 4         | [Classification](slides/ML4.pdf)                        | Classification          | Regression            | 
 |Week 5         | [Trainining Models](slides/ML5.pdf)                     | Trainining Models          | Classification        | 
 |Week 6         | [Support Vector Machines](slides/ML6.pdf)               | Support Vector Machines    | Classification        | 
-|Week 7         | [Tree Based Methods](slides/ML7.pdf)                    | [Tree Based Methods]        | Classification        | 
+|Week 7         | [Tree Based Methods](slides/ML7.pdf)                    | Tree Based Methods        | Classification        | 
 |Week 8         | [Boosting & Bagging - Ensembles](slides/ML7.pdf)        | Boosting & Bagging - Ensembles | Unsupervised Learning | 
-|Week 9         | [Neural Networks](slides/ML8.pdf)                       | [Neural Networks]              | Neural Networks       |
+|Week 9         | [Neural Networks](slides/ML8.pdf)                       | Neural Networks             | Neural Networks       |
 |Week 10        | [Convolutional Neural Networks](slides/ML9.pdf)         |Neural Networks                 | Neural Networks       | 
-|Week 11        | [Unsupervised Learning](slides/ML10.pdf)                |   [Unsupervised Learning]      | Unsupervised Learning | 
+|Week 11        | [Unsupervised Learning](slides/ML10.pdf)                |   Unsupervised Learning      | Unsupervised Learning | 
 |Week 12        | Dimensionality Reduction              |      | Dimensionality Reduction | 
  
 
