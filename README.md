@@ -12,8 +12,8 @@
 
 |               | Theory                          | Python Session                  | Lab Session             |
 | ------------- |:-------------:                  | -----:                          | -----:                |
-|Week 1         | [Introduction](slides/ML1.pdf)  | Your "first" DS problem     |      | 
-|Week 2         | [A typical Machine Learning project](slides/ML2.pdf)     |  A typical Machine Learning project          | Introduction to R             | 
+|Week 1         | [Introduction](slides/ML1.pdf)  | [Your "first" DS problem](notebooks/Session1.ipynb)     |      | 
+|Week 2         | [A typical Machine Learning project](slides/ML2.pdf)     |  [A typical Machine Learning project](notebooks/Session2.ipynb)          | Introduction to R             | 
 |Week 3         | [Regression](slides/ML3.pdf)         | Regression         | Regression            | 
 |Week 4         | [Classification](slides/ML4.pdf)                        | Classification          | Regression            | 
 |Week 5         | [Trainining Models](slides/ML5.pdf)                     | Trainining Models          | Classification        | 
