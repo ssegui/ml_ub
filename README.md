@@ -1,6 +1,6 @@
-**Computer Science** (Fall 2022)
+**Computer Science** (Fall 2023)
 
-**Professor:** Santi Seguí & Josep Fortiana
+**Professor:** Santi Seguí 
 
 **Email:** santi.segui@ub.edu
 
@@ -10,20 +10,20 @@
 
 ### CALENDAR
 
-|               | Theory                          | Python Session                  | Lab Session             |
-| ------------- |:-------------:                  | -----:                          | -----:                |
-|Week 1         | [Introduction](slides/ML1.pdf)  | [Your "first" DS problem](notebooks/Session1.ipynb)     |      | 
-|Week 2         | [A typical Machine Learning project](slides/ML2.pdf)     |  [A typical Machine Learning project](notebooks/Session2.ipynb)          | Introduction to R             | 
-|Week 3         | [Regression](slides/ML3.pdf)         | Regression         | Regression            | 
-|Week 4         | [Classification](slides/ML4.pdf)                        | Classification          | Regression            | 
-|Week 5         | [Trainining Models](slides/ML5.pdf)                     | Trainining Models          | Classification        | 
-|Week 6         | [Support Vector Machines](slides/ML6.pdf)               | Support Vector Machines    | Classification        | 
-|Week 7         | [Tree Based Methods](slides/ML7.pdf)                    | Tree Based Methods        | Classification        | 
-|Week 8         | [Boosting & Bagging - Ensembles](slides/ML7.pdf)        | Boosting & Bagging - Ensembles | Unsupervised Learning | 
-|Week 9         | [Neural Networks](slides/ML8.pdf)                       | Neural Networks             | Neural Networks       |
-|Week 10        | [Convolutional Neural Networks](slides/ML9.pdf)         |Neural Networks                 | Neural Networks       | 
-|Week 11        | [Unsupervised Learning](slides/ML10.pdf)                |   Unsupervised Learning      | Unsupervised Learning | 
-|Week 12        | Dimensionality Reduction              |      | Dimensionality Reduction | 
+|               | Theory                          | Lab Session                  | 
+| ------------- |:-------------:                  | -----:                          | 
+|Week 1         | [Introduction](slides/ML1.pdf)  | [Your "first" DS problem](notebooks/Session1.ipynb)     |      
+|Week 2         | [A typical Machine Learning project](slides/ML2.pdf)     |  [A typical Machine Learning project](notebooks/Session2.ipynb)          | 
+|Week 3         | [Regression](slides/ML3.pdf)         | Regression         | 
+|Week 4         | [Classification](slides/ML4.pdf)                        | Classification          | 
+|Week 5         | [Trainining Models](slides/ML5.pdf)                     | Trainining Models          | 
+|Week 6         | [Support Vector Machines](slides/ML6.pdf)               | Support Vector Machines    | 
+|Week 7         | [Tree Based Methods](slides/ML7.pdf)                    | Tree Based Methods        | 
+|Week 8         | [Boosting & Bagging - Ensembles](slides/ML7.pdf)        | Boosting & Bagging - Ensembles | 
+|Week 9         | [Neural Networks](slides/ML8.pdf)                       | Neural Networks             | 
+|Week 10        | [Convolutional Neural Networks](slides/ML9.pdf)         |Neural Networks                 | 
+|Week 11        | [Unsupervised Learning](slides/ML10.pdf)                |   Unsupervised Learning      | 
+|Week 12        | Dimensionality Reduction              |      | 
  
 
 ### Projects
