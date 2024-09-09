@@ -1,4 +1,4 @@
-**Computer Science** (Fall 2023)
+**Computer Science** (Fall 2024)
 
 **Professor:** Santi Seguí 
 
